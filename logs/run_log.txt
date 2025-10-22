@@ -1,0 +1,393 @@
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 14:49:51
+=====================================================
+
+[2025-10-21 14:49:51] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (30.8 Sek.)
+
+[2025-10-21 14:50:23] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (27.7 Sek.)
+
+[2025-10-21 14:50:52] Starte notebooks/03_modeling_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/03_modeling_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 14:51:25] Starte notebooks/04_training_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/04_training_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 14:51:53] Starte notebooks/05_evaluation_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/05_evaluation_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+⚠️ Kein Modell gefunden unter: models/airbnb_model.pkl
+🎯 Projektlauf beendet: 2025-10-21 14:52:21
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 14:55:13
+=====================================================
+
+[2025-10-21 14:55:13] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (70.0 Sek.)
+
+[2025-10-21 14:56:25] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (29.0 Sek.)
+
+[2025-10-21 14:56:54] Starte notebooks/03_modeling_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/03_modeling_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 14:57:24] Starte notebooks/04_training_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/04_training_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 14:57:51] Starte notebooks/05_evaluation_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/05_evaluation_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+⚠️ Kein Modell gefunden unter: models/airbnb_model.pkl
+🎯 Projektlauf beendet: 2025-10-21 14:58:21
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 15:00:23
+=====================================================
+
+[2025-10-21 15:00:23] Starte notebooks/01_eda_airbnb.ipynb
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 15:00:29
+=====================================================
+
+[2025-10-21 15:00:29] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (46.1 Sek.)
+
+[2025-10-21 15:01:16] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (37.5 Sek.)
+
+[2025-10-21 15:01:55] Starte notebooks/03_modeling_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/03_modeling_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 15:02:25] Starte notebooks/04_training_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/04_training_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 15:02:54] Starte notebooks/05_evaluation_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/05_evaluation_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+⚠️ Kein Modell gefunden unter: models/airbnb_model.pkl
+🎯 Projektlauf beendet: 2025-10-21 15:03:24
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 15:08:34
+=====================================================
+
+[2025-10-21 15:08:34] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (26.7 Sek.)
+
+[2025-10-21 15:09:02] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (24.6 Sek.)
+
+[2025-10-21 15:09:27] Starte notebooks/03_modeling_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/03_modeling_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 15:10:00] Starte notebooks/04_training_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/04_training_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 15:10:29] Starte notebooks/05_evaluation_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/05_evaluation_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+⚠️ Kein Modell gefunden unter: models/airbnb_model.pkl
+🎯 Projektlauf beendet: 2025-10-21 15:10:57
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 15:20:01
+=====================================================
+
+[2025-10-21 15:20:01] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (64.5 Sek.)
+
+[2025-10-21 15:21:07] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (29.3 Sek.)
+
+[2025-10-21 15:21:37] Starte notebooks/03_modeling_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/03_modeling_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 15:22:28] Starte notebooks/04_training_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/04_training_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 15:22:56] Starte notebooks/05_evaluation_airbnb.ipynb
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 15:23:22
+=====================================================
+
+[2025-10-21 15:23:22] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (26.8 Sek.)
+
+[2025-10-21 15:23:50] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (23.6 Sek.)
+
+[2025-10-21 15:24:15] Starte notebooks/03_modeling_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/03_modeling_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 15:24:45] Starte notebooks/04_training_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/04_training_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 15:25:08] Starte notebooks/05_evaluation_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/05_evaluation_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+⚠️ Kein Modell gefunden unter: models/airbnb_model.pkl
+🎯 Projektlauf beendet: 2025-10-21 15:25:32
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 15:28:34
+=====================================================
+
+[2025-10-21 15:28:34] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (38.5 Sek.)
+
+[2025-10-21 15:29:14] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (42.5 Sek.)
+
+[2025-10-21 15:29:57] Starte notebooks/03_modeling_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/03_modeling_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 15:30:54] Starte notebooks/04_training_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/04_training_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 15:31:36] Starte notebooks/05_evaluation_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/05_evaluation_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+⚠️ Kein Modell gefunden unter: models/airbnb_model.pkl
+🎯 Projektlauf beendet: 2025-10-21 15:32:16
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 15:35:42
+=====================================================
+
+[2025-10-21 15:35:42] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (61.1 Sek.)
+
+[2025-10-21 15:36:45] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (45.8 Sek.)
+
+[2025-10-21 15:37:31] Starte notebooks/03_modeling_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/03_modeling_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 15:38:06] Starte notebooks/04_training_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/04_training_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 15:38:42] Starte notebooks/05_evaluation_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/05_evaluation_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+⚠️ Kein Modell gefunden unter: models/airbnb_model.pkl
+🎯 Projektlauf beendet: 2025-10-21 15:39:08
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 15:43:25
+=====================================================
+
+[2025-10-21 15:43:25] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (24.0 Sek.)
+
+[2025-10-21 15:43:50] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (27.8 Sek.)
+
+[2025-10-21 15:44:19] Starte notebooks/03_modeling_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/03_modeling_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 15:44:44] Starte notebooks/04_training_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/04_training_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+
+[2025-10-21 15:45:08] Starte notebooks/05_evaluation_airbnb.ipynb
+❌ Fehler beim Ausführen: Command '['jupyter', 'nbconvert', '--to', 'notebook', '--execute', 'notebooks/05_evaluation_airbnb.ipynb', '--inplace']' returned non-zero exit status 1.
+⚠️ Kein Modell gefunden unter: models/airbnb_model.pkl
+🎯 Projektlauf beendet: 2025-10-21 15:45:49
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 15:48:01
+=====================================================
+
+[2025-10-21 15:48:01] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (22.6 Sek.)
+
+[2025-10-21 15:48:25] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (35.0 Sek.)
+
+[2025-10-21 15:49:01] Starte notebooks/03_modeling_airbnb.ipynb
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 15:53:36
+=====================================================
+
+[2025-10-21 15:53:36] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (26.6 Sek.)
+
+[2025-10-21 15:54:03] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (21.4 Sek.)
+
+[2025-10-21 15:54:26] Starte notebooks/03_modeling_airbnb.ipynb
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 15:57:21
+=====================================================
+
+[2025-10-21 15:57:21] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (22.1 Sek.)
+
+[2025-10-21 15:57:45] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (22.7 Sek.)
+
+[2025-10-21 15:58:08] Starte notebooks/03_modeling_airbnb.ipynb
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 17:30:19
+=====================================================
+
+[2025-10-21 17:30:19] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (74.9 Sek.)
+
+[2025-10-21 17:31:35] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (74.2 Sek.)
+
+[2025-10-21 17:32:51] Starte notebooks/03_modeling_airbnb.ipynb
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 17:37:03
+=====================================================
+
+[2025-10-21 17:37:03] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (41.4 Sek.)
+
+[2025-10-21 17:37:46] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (23.9 Sek.)
+
+[2025-10-21 17:38:11] Starte notebooks/03_modeling_airbnb.ipynb
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 17:41:40
+=====================================================
+
+[2025-10-21 17:41:40] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (25.3 Sek.)
+
+[2025-10-21 17:42:06] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (23.6 Sek.)
+
+[2025-10-21 17:42:31] Starte notebooks/03_modeling_airbnb.ipynb
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 17:54:10
+=====================================================
+
+[2025-10-21 17:54:10] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (27.0 Sek.)
+
+[2025-10-21 17:54:38] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (29.0 Sek.)
+
+[2025-10-21 17:55:08] Starte notebooks/03_modeling_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (1195.6 Sek.)
+
+[2025-10-21 18:15:05] Starte notebooks/04_training_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (1114.0 Sek.)
+
+[2025-10-21 18:33:40] Starte notebooks/05_evaluation_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (36.0 Sek.)
+✅ Modell erfolgreich gefunden: models/airbnb_model.pkl
+💻 Streamlit gestartet um 18:34:17
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 20:38:34
+=====================================================
+
+[2025-10-21 20:38:34] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (23.5 Sek.)
+
+[2025-10-21 20:38:59] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (22.7 Sek.)
+
+[2025-10-21 20:39:23] Starte notebooks/03_modeling_airbnb.ipynb
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 20:41:57
+=====================================================
+
+[2025-10-21 20:41:57] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (22.6 Sek.)
+
+[2025-10-21 20:42:20] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (19.6 Sek.)
+
+[2025-10-21 20:42:41] Starte notebooks/03_modeling_airbnb.ipynb
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-21 20:45:25
+=====================================================
+
+[2025-10-21 20:45:25] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (25.7 Sek.)
+
+[2025-10-21 20:45:52] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (24.9 Sek.)
+
+[2025-10-21 20:46:18] Starte notebooks/03_modeling_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (1132.0 Sek.)
+
+[2025-10-21 21:05:11] Starte notebooks/04_training_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (1018.6 Sek.)
+
+[2025-10-21 21:22:11] Starte notebooks/05_evaluation_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (42.2 Sek.)
+✅ Modell erfolgreich gefunden: models/airbnb_model.pkl
+💻 Streamlit gestartet um 21:22:54
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-22 09:45:27
+=====================================================
+
+[2025-10-22 09:45:27] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (35.4 Sek.)
+
+[2025-10-22 09:46:04] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (30.8 Sek.)
+
+[2025-10-22 09:46:35] Starte notebooks/03_modeling_airbnb.ipynb
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-22 09:48:38
+=====================================================
+
+[2025-10-22 09:48:38] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (33.0 Sek.)
+
+[2025-10-22 09:49:12] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (26.3 Sek.)
+
+[2025-10-22 09:49:39] Starte notebooks/03_modeling_airbnb.ipynb
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-22 09:53:42
+=====================================================
+
+[2025-10-22 09:53:42] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (49.1 Sek.)
+
+[2025-10-22 09:54:32] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (27.3 Sek.)
+
+[2025-10-22 09:55:00] Starte notebooks/03_modeling_airbnb.ipynb
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-22 09:58:54
+=====================================================
+
+[2025-10-22 09:58:54] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (39.9 Sek.)
+
+[2025-10-22 09:59:35] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (35.1 Sek.)
+
+[2025-10-22 10:00:11] Starte notebooks/03_modeling_airbnb.ipynb
+
+=====================================================
+🚀 Projektlauf gestartet: 2025-10-22 10:04:08
+=====================================================
+
+[2025-10-22 10:04:08] Starte notebooks/01_eda_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (37.6 Sek.)
+
+[2025-10-22 10:04:46] Starte notebooks/02_preprocessing_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (79.9 Sek.)
+
+[2025-10-22 10:06:07] Starte notebooks/03_modeling_airbnb.ipynb
+✅ Erfolgreich abgeschlossen (311.6 Sek.)
+
+[2025-10-22 10:11:20] Starte notebooks/04_training_airbnb.ipynb
